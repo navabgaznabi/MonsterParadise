@@ -12,7 +12,6 @@ body {
     rgba(0, 128, 128, 1) 100%
   );
   text-align: center;
-  overflow: hidden;
 }
 .search-box {
   -webkit-appearance: none;
